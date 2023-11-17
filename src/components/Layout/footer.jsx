@@ -24,19 +24,19 @@ const footer = () => {
               </h2>
               <ul className="text-white font-bold">
                 <li className="mb-4">
-                  <a href="" className="hover:underline">
+                  <Link  className="hover:underline">
                     T-Shirts
-                  </a>
+                  </Link>
                 </li>
                 <li className="mb-4">
-                  <a href="" className="hover:underline">
+                  <Link href="" className="hover:underline">
                     Youth
-                  </a>
+                  </Link>
                 </li>
                 <li className="mb-4">
-                  <a href="" className="hover:underline">
+                  <Link href="" className="hover:underline">
                     Champion
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -46,19 +46,19 @@ const footer = () => {
               </h2>
               <ul className="text-white font-bold">
                 <li className="mb-4">
-                  <a href="" className="hover:underline ">
+                  <Link href="" className="hover:underline ">
                     Beach
-                  </a>
+                  </Link>
                 </li>
                 <li className="mb-4">
-                  <a href="" className="hover:underline ">
+                  <Link href="" className="hover:underline ">
                     Grand Bend
-                  </a>
+                  </Link>
                 </li>
                 <li className="mb-4">
-                  <a href="" className="hover:underline ">
+                  <Link href="" className="hover:underline ">
                     Fawn Island
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -68,9 +68,9 @@ const footer = () => {
               </h2>
               <ul className="text-white font-medium">
                 <li className="mb-4">
-                  <a href="" className="hover:underline ">
+                  <Link href="" className="hover:underline ">
                     No annoying emails, just discount codes.
-                  </a>
+                  </Link>
                 </li>
               </ul>
               <div>

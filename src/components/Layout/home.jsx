@@ -44,7 +44,7 @@ const home = () => {
           <div className="lg:text-4xl  text-[#1c645f] lg:w-[400px] font-extrabold">
           Cottage Communities
           </div>
-          <div className="mt-6">
+          <div className="">
           <button
                   type="button"
                   className="text-[#1c645f] hover:bg-[#1c645f] hover:text-white mt-2 border-2 bg-white focus-ring-white-300 font-bold rounded-lg px-5 py-2.5 text-center mb-2"
@@ -55,8 +55,9 @@ const home = () => {
         </div>
         <div className="pt-8">
           <div className="flex direction-row gap-8">
-            <img className="rounded-lg h-[25%] w-[25%]" src={image4} alt="image4" />
-            <img className="rounded-lg h-[40%] w-[25%]" src={image3} alt="image3" />
+            <img className="rounded-lg relative h-[25%] w-[25%]" src={image4} alt="image4" />
+            <h1 className="absolute text-white text-4xl">Fawn Island</h1>
+            <img className="rounded-lg h-[25%] w-[25%]" src={image3} alt="image3" />
             <img className="rounded-lg h-[25%] w-[25%]" src={image2} alt="image2" />
             <img className="rounded-lg h-[25%] w-[25%]" src={image5} alt="image5" />
             
