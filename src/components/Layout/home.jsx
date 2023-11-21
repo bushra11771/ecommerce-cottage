@@ -83,7 +83,7 @@ const home = () => {
               </div>
             </div>
 
-            <div className="h-[200px] w-[900px] relative">
+            <div className=" w-[900px] relative">
               <img className=" rounded-lg" src={image7} alt="image3" />
               <div class=" ml-16">
                 <h1 class="text-[#1c645f] hover:underline cursor-pointer font-bold text-2xl">
@@ -109,7 +109,7 @@ const home = () => {
               </div>
             </div>
 
-            <div className="h-[900px] w-[900px] relative">
+            <div className=" w-[900px] relative">
               <img src={image8} alt="image4" />
               <div class=" ml-16">
                 <h1 class="text-[#1c645f] hover:underline cursor-pointer font-bold text-2xl">
@@ -135,7 +135,7 @@ const home = () => {
               </div>
             </div>
 
-            <div className="h-[900px] w-[900px] relative">
+            <div className=" w-[900px] relative">
               <img className=" rounded-lg" src={image9} alt="image4" />
               <div class=" ml-16">
                 <h1 class="text-[#1c645f] hover:underline cursor-pointer font-bold text-2xl">
@@ -393,7 +393,7 @@ const home = () => {
               </div>
             </div>
 
-            <div className="h-[200px] w-[900px] relative">
+            <div className=" w-[900px] relative">
               <img className=" rounded-lg" src={tees3} alt="image11" />
               <div class=" ml-16">
                 <h1 class="text-[#1c645f] hover:underline cursor-pointer font-bold text-2xl">
@@ -419,7 +419,7 @@ const home = () => {
               </div>
             </div>
 
-            <div className="h-[900px] w-[900px] relative">
+            <div className=" w-[900px] relative">
               <img src={image12} alt="image4" />
               <div class=" ml-16">
                 <h1 class="text-[#1c645f] hover:underline cursor-pointer font-bold text-2xl">
@@ -445,7 +445,7 @@ const home = () => {
               </div>
             </div>
 
-            <div className="h-[900px] w-[900px] relative">
+            <div className=" w-[900px] relative">
               <img className=" rounded-lg" src={image13} alt="image4" />
               <div class=" ml-16">
                 <h1 class="text-[#1c645f] hover:underline cursor-pointer font-bold text-2xl">
@@ -485,7 +485,7 @@ const home = () => {
     src={image6}
     alt=""
   />
-  <div className="flex flex-col justify-between p-4">
+  <div className="flex justify-between p-4">
     <h1 className="mb-2 text-2xl font-bold text-gray-900">
     Fawn Island Floaty Skeleton Champion™ Hoodie
     </h1>
